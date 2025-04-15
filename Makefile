@@ -1,0 +1,1 @@
+-e "all:\n\techo \"Build successful!\"" 
